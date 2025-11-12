@@ -1,3 +1,5 @@
+//Commands to install: npm install express ejs
+
 const express = require('express');
 const app = express();
 const PORT = 3000;
